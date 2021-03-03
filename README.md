@@ -1,4 +1,4 @@
-# Bresenham_cercle_droit_rectangle_remplissageparlignede-balayge
+# Bresenham_cercle_droit_rectangle_Fenetrage_remplissage_2D
 #infographie #bresenham #cercle #droit #rectangle #remplissage #ligne_de_balayge 
 
 implimentation d'algorithme de bresenham pour le traçage des lignes et des cercles en langage java.
